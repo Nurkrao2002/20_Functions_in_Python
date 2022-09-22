@@ -7,3 +7,4 @@ n=Num()
 # n.sum(5,6,7) # 18  
 n.sum(a=2,b=8,c=9) # 19
 ''' Note: the line numbers 6,7 and 8 are called as method overloading '''
+
