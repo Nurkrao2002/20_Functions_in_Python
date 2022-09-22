@@ -8,3 +8,4 @@ class Child(Parent):    # child class or sub class
 
 c=Child()
 c.name()
+
