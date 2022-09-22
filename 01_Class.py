@@ -8,3 +8,4 @@ p=josh()
 print(p.course1)
 print(p.course2)
 print(p.course1+" "+p.course2)
+
