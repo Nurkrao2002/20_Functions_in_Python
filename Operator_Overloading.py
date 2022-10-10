@@ -5,4 +5,3 @@ print(c+d)
 e=[1,2,3] ; f=[4,5,6]
 print(e+f)
 print(e[:]+f[:])
-
